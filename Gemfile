@@ -19,7 +19,7 @@ gem 'turbolinks', '~> 5'
 gem 'jbuilder', '~> 2.7'
 gem 'bootsnap', '>= 1.4.2', require: false
 # markdown
-gem "redcarpet", "~> 2.3.0"
+gem "redcarpet", "~> 3.5.1"
 # シンタックスハイライト
 gem "coderay"
 
